@@ -2,9 +2,10 @@
 
 A curated collection of stunning 4K wallpapers (3840x2160) perfect for desktop backgrounds and high-resolution displays.
 
-[![Total Files](https://img.shields.io/badge/Total%20Files-58-blue.svg)](#)
+[![Total Files](https://img.shields.io/badge/Total%20Files-76-blue.svg)](#)
 [![Resolution](https://img.shields.io/badge/Resolution-4K%20(3840x2160)-green.svg)](#)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202025-orange.svg)](#)
+[![GitHub Stars](https://img.shields.io/github/stars/dcorneschi/4k-wallpapers?style=social)](#)
 
 ## 🖼️ Wallpaper Preview Gallery
 
@@ -369,6 +370,120 @@ A curated collection of stunning 4K wallpapers (3840x2160) perfect for desktop b
 <img src="./wallpapers/wallpaper_58.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
 <br><strong>wallpaper_58.png</strong>
 <br><em>Landscape View • PNG Format</em>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<h3>🚀 Extended Collection</h3>
+<em>Additional high-quality wallpapers for every style</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_59.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_59.png</strong>
+<br><em>Digital Art • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_60.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_60.png</strong>
+<br><em>Geometric • PNG Format</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_61.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_61.png</strong>
+<br><em>Abstract Waves • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_62.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_62.png</strong>
+<br><em>Color Gradient • PNG Format</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_63.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_63.png</strong>
+<br><em>Modern Design • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_64.jpg" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_64.jpg</strong>
+<br><em>Professional Photo • JPEG Format</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_65.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_65.png</strong>
+<br><em>Artistic Style • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_66.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_66.png</strong>
+<br><em>Creative Design • PNG Format</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_67.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_67.png</strong>
+<br><em>Futuristic • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_68.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_68.png</strong>
+<br><em>Tech Innovation • PNG Format</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_69.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_69.png</strong>
+<br><em>Digital Future • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_70.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_70.png</strong>
+<br><em>Cyberpunk Style • PNG Format</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_71.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_71.png</strong>
+<br><em>Neon Aesthetic • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_72.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_72.png</strong>
+<br><em>Matrix Style • PNG Format</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_73.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_73.png</strong>
+<br><em>Digital Matrix • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_74.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_74.png</strong>
+<br><em>Code Aesthetic • PNG Format</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_75.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_75.png</strong>
+<br><em>Programming Theme • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_76.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_76.png</strong>
+<br><em>Developer Style • PNG Format</em>
 </td>
 </tr>
 </table>
