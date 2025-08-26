@@ -486,6 +486,30 @@ A curated collection of stunning 4K wallpapers (3840x2160) perfect for desktop b
 <br><em>Developer Style • PNG Format</em>
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_77.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_77.png</strong>
+<br><em>Abstract Design • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_78.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_78.png</strong>
+<br><em>Artistic Style • PNG Format</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_79.png" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_79.png</strong>
+<br><em>Modern Theme • PNG Format</em>
+</td>
+<td align="center" width="50%">
+<img src="./wallpapers/wallpaper_80.jpg" width="380" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+<br><strong>wallpaper_80.jpg</strong>
+<br><em>High Quality • JPEG Format</em>
+</td>
+</tr>
 </table>
 
 ### 📁 Directory Structure
