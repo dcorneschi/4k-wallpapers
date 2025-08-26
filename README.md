@@ -4,7 +4,7 @@ A curated collection of stunning 4K wallpapers (3840x2160) perfect for desktop b
 
 [![Total Files](https://img.shields.io/badge/Total%20Files-58-blue.svg)](#)
 [![Resolution](https://img.shields.io/badge/Resolution-4K%20(3840x2160)-green.svg)](#)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202023-orange.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202025-orange.svg)](#)
 
 ## 🖼️ Wallpaper Preview Gallery
 
