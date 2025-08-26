@@ -501,9 +501,25 @@ A curated collection of stunning 4K wallpapers (3840x2160) perfect for desktop b
 
 ---
 
-## 📝 License & Usage
+## ⚖️ Legal Disclaimer & Usage Terms
 
-This collection is intended only for personal desktop use !!!
+### 📋 **IMPORTANT DISCLAIMER**
+
+**This collection is provided for educational and personal use only. Please read the following terms carefully:**
+
+### ✅ **Permitted Uses**
+- ✅ **Personal desktop wallpapers** on your own devices
+- ✅ **Private/personal use** in non-commercial settings
+- ✅ **Educational purposes** and learning
+- ✅ **Personal portfolio** or showcase (with attribution)
+
+### ❌ **Prohibited Uses**
+- ❌ **Commercial use** or monetization in any form
+- ❌ **Redistribution** without explicit permission
+- ❌ **Selling** or licensing to third parties
+- ❌ **Claiming ownership** of the wallpapers
+- ❌ **Using in commercial products** or services
+- ❌ **Mass distribution** on other platforms
 
 ---
 
