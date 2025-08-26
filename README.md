@@ -496,7 +496,7 @@ A curated collection of stunning 4K wallpapers (3840x2160) perfect for desktop b
     ├── wallpaper_01.png
     ├── wallpaper_02.png
     ├── ...
-    └── wallpaper_58.png
+    └── wallpaper_76.png
 ```
 
 ---
