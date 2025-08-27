@@ -2,7 +2,7 @@
 
 A curated collection of stunning 4K wallpapers (3840x2160) perfect for desktop backgrounds and high-resolution displays.
 
-[![Total Files](https://img.shields.io/badge/Total%20Files-76-blue.svg)](#)
+[![Total Files](https://img.shields.io/badge/Total%20Files-80-blue.svg)](#)
 [![Resolution](https://img.shields.io/badge/Resolution-4K%20(3840x2160)-green.svg)](#)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202025-orange.svg)](#)
 [![GitHub Stars](https://img.shields.io/github/stars/dcorneschi/4k-wallpapers?style=social)](#)
@@ -512,17 +512,6 @@ A curated collection of stunning 4K wallpapers (3840x2160) perfect for desktop b
 </tr>
 </table>
 
-### 📁 Directory Structure
-```
-4k/
-├── README.md
-└── wallpapers/
-    ├── wallpaper_01.png
-    ├── wallpaper_02.png
-    ├── ...
-    └── wallpaper_76.png
-```
-
 ---
 
 ## ⚖️ Legal Disclaimer & Usage Terms
@@ -535,7 +524,6 @@ A curated collection of stunning 4K wallpapers (3840x2160) perfect for desktop b
 - ✅ **Personal desktop wallpapers** on your own devices
 - ✅ **Private/personal use** in non-commercial settings
 - ✅ **Educational purposes** and learning
-- ✅ **Personal portfolio** or showcase (with attribution)
 
 ### ❌ **Prohibited Uses**
 - ❌ **Commercial use** or monetization in any form
